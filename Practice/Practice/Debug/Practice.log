@@ -1,0 +1,3 @@
+﻿  Homework.c
+D:\code\the-c-language\Practice\Practice\Homework.c(925,12): warning C4305: “初始化”: 从“int”到“char”截断
+  Practice.vcxproj -> D:\code\the-c-language\Practice\Debug\Practice.exe

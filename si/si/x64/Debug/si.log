@@ -1,0 +1,20 @@
+﻿  so.c
+D:\code\the-c-language\si\si\so.c(85,5): warning C4552: ”+“: 未使用表达式结果
+D:\code\the-c-language\si\si\so.c(137,34): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+D:\code\the-c-language\si\si\so.c(137,34): warning C4476: "printf": 格式说明符中的类型字段字符“#”未知
+D:\code\the-c-language\si\si\so.c(175,122): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(313,9): warning C4476: "printf": 格式说明符中的类型字段字符“$”未知
+D:\code\the-c-language\si\si\so.c(313,9): warning C4476: "printf": 格式说明符中的类型字段字符“^”未知
+D:\code\the-c-language\si\si\so.c(323,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(324,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(325,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(326,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(327,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(328,70): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(329,61): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(330,91): warning C4550: 表达式计算为缺少参数列表的函数
+D:\code\the-c-language\si\si\so.c(337,5): warning C4102: “top3”: 未引用的标签
+D:\code\the-c-language\si\si\so.c(349,5): warning C4102: “top4”: 未引用的标签
+D:\code\the-c-language\si\si\so.c(117,11): warning C4101: “top2”: 未引用的局部变量
+D:\code\the-c-language\si\si\so.c(117,5): warning C4101: “top1”: 未引用的局部变量
+  si.vcxproj -> D:\code\the-c-language\si\x64\Debug\si.exe

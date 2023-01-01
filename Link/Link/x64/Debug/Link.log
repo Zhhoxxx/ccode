@@ -1,0 +1,4 @@
+﻿  link.c
+D:\code\the-c-language\Link\Link\link.c(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\code\the-c-language\Link\Link\link.c(3,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  Link.vcxproj -> D:\code\the-c-language\Link\x64\Debug\Link.exe

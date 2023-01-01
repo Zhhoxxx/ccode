@@ -1,0 +1,5 @@
+﻿  out.c
+  static.c
+  正在生成代码...
+static.obj : error LNK2001: 无法解析的外部符号 c
+D:\code\the-c-language\Static\x64\Debug\Static.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,3 @@
+﻿  Compare.c
+D:\code\the-c-language\Compare\Compare\Compare.c(10): warning C4715: “Compare”: 不是所有的控件路径都返回值
+  Compare.vcxproj -> D:\code\the-c-language\Compare\x64\Debug\Compare.exe
